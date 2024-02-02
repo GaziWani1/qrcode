@@ -14,6 +14,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
 }
 
 .container {
@@ -25,7 +26,6 @@ body {
     gap: 10px;
     flex-wrap: wrap;
     box-shadow: 0 0 10px #2e4f4f6b;
-    overflow: hidden;
 }
 
 .qr-code img {

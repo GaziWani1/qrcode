@@ -90,6 +90,7 @@ body {
 
     .container {
         background: none;
+        box-shadow: none;
     }
 
     .qr-info .link {

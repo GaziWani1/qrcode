@@ -89,11 +89,20 @@ body {
 @media screen and (max-width: 600px) {
 
     .container {
-        background-color: none;
+        background: none;
     }
 
     .qr-info .link {
         width: 100%;
+    }
+
+    .heading{
+        text-align: center;
+    }
+
+    .btn{
+        padding:3px 10px;
+        font-size: 15px;
     }
 
     .qr-code img {
